@@ -32,7 +32,7 @@ The decision guides that follow are quick-reference frameworks for the most comm
 | Prompt | The input to a model, typically including a system instruction layer, context (retrieved or provided), and the user's request |
 | Prompt injection | An attack where malicious input attempts to override the model's intended instructions, cause it to ignore safety rules, or exfiltrate data |
 | RAG (Retrieval-Augmented Generation) | A pattern where relevant content is retrieved from an approved data source and provided to the model as context before generation, grounding the response in current, authorized information |
-| Reasoning model | A model variant that exposes its reasoning process (chain-of-thought) explicitly before producing a final answer, often producing better results on complex problems at the cost of higher latency and token usage |
+| Reasoning model | A model variant optimized for complex multi-step tasks, often producing better results at the cost of higher latency and token usage |
 | Red teaming | Structured adversarial testing designed to find harmful, insecure, or policy-violating model behaviors before they occur in production |
 | Reranking | A post-retrieval step that reorders retrieved chunks by relevance using a more sophisticated model or scoring function, improving the quality of context provided to the generation model |
 | Responsible AI | The set of practices — fairness, transparency, accountability, safety, privacy — that make AI systems lawful, ethical, and trustworthy |

@@ -43,6 +43,7 @@ Target launch date:
 
 - [ ] Privacy assessment completed.
 - [ ] Compliance approval completed where required.
+- [ ] Legal approval completed where required.
 - [ ] Transparency notice prepared.
 - [ ] Audit evidence captured.
 - [ ] Human oversight implemented.
@@ -64,6 +65,13 @@ Target launch date:
 - [ ] Rollback tested.
 - [ ] Cost budget and quota configured.
 
+## Approvals
+
+- [ ] Business owner approved.
+- [ ] Product owner approved.
+- [ ] Operations owner approved.
+- [ ] Cost owner approved.
+
 ## Launch Decision
 
 - [ ] Go
@@ -72,4 +80,4 @@ Target launch date:
 
 Conditions:
 
-Approvers:
+Approvers (include required owners and Legal where required):

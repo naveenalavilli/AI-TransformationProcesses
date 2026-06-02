@@ -34,7 +34,7 @@ None of this is optional for systems in production. The teams that skip these st
 
 ## Enterprise AI Capability Model
 
-A mature AI program is built on eight interconnected capabilities. Weak spots in any one of them tend to cause failures in others.
+A mature AI program is built on nine interconnected capabilities. Weak spots in any one of them tend to cause failures in others.
 
 | Capability | Description |
 | --- | --- |
@@ -77,7 +77,7 @@ These forums work best when they have clear decision rights and meet on a predic
 
 ## AI Enablement Success Measures
 
-The instinct is to measure AI programs by activity: models trained, features shipped, teams enabled. Resist it. Measure success across five dimensions that reflect actual business impact:
+The instinct is to measure AI programs by activity: models trained, features shipped, teams enabled. Resist it. Measure success across seven dimensions that reflect actual business impact:
 
 | Dimension | Example Measures |
 | --- | --- |

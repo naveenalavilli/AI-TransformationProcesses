@@ -129,7 +129,7 @@ Controls:
 
 Not all AI needs to act. For many use cases, the goal is to help humans make better decisions — faster, with more context, and with AI surfacing patterns they wouldn't spot manually. Forecasting, anomaly detection, risk scoring, and narrative explanations all fall here.
 
-The critical design principle is that the human owns the decision. AI provides the evidence and recommendation; the user evaluates it and acts. Don't hide uncertainty — surfaces confidence levels, data gaps, and the reasoning behind recommendations.
+The critical design principle is that the human owns the decision. AI provides the evidence and recommendation; the user evaluates it and acts. Don't hide uncertainty — surface confidence levels, data gaps, and the reasoning behind recommendations.
 
 Controls:
 - Make the evidence visible. Users should be able to trace a recommendation back to its sources.

@@ -13,6 +13,7 @@ Every use case should produce a consistent set of documentation — not for comp
 - [AI Architecture Decision Record](../templates/ai-architecture-decision-record.md) — documents consequential architecture decisions, including alternatives considered and rationale.
 - [AI Cost Model](../templates/ai-cost-model.md) — structures the cost estimate from pilot through production scaling.
 - [Vendor Evaluation Template](../templates/vendor-evaluation-template.md) — a structured comparison framework for evaluating AI model providers and tools.
+- [Security Threat Model](../templates/security-threat-model.md) — documents AI-specific threats, trust boundaries, mitigations, and residual risk decisions.
 
 ## Recommended Document Set Per Use Case
 
@@ -40,6 +41,7 @@ Every production launch requires documented approval from each of these owners:
 - [ ] Security approved.
 - [ ] Privacy approved.
 - [ ] Compliance approved where required by regulation or risk tier.
+- [ ] Legal approved where required by regulation, contract, or risk tier.
 - [ ] Data owner approved.
 - [ ] Operations approved.
 - [ ] Cost owner approved.
