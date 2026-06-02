@@ -4,7 +4,7 @@ This repository is a comprehensive guide for organizations that want to AI-enabl
 
 The goal is to help teams move from AI ambition to governed, secure, measurable delivery. The guidance covers strategy, product discovery, architecture, security, compliance, data readiness, operating model, cost management, rollout, and reusable templates.
 
-## Who This Is For:
+## Who This Is For
 
 - Executive sponsors shaping enterprise AI direction.
 - Product leaders deciding where AI can create measurable value.
